@@ -12,10 +12,12 @@ We know this is a relatively short time to hack, and your demos don't need to be
 
 ## Schedule
 
+```
 5:00 - 6:00: 🌮 + Networking
 6:00 - 6:30: ⚡️ Talks
 6:30 - 7:30: 🧑‍💻👩‍💻 Hack
-7:30 - 8:00: Demos and 👏
+7:30 - 8:00: 👏 Demos
+```
 
 ## Resources
 
