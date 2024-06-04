@@ -3,8 +3,10 @@
 
 Welcome to AI Hacknight @ Cloudflare
 
-**Wifi**: Cloudflare Guest
-**Password**: #savetheinternet
+```
+Wifi: Cloudflare Guest
+Password: #savetheinternet
+```
 
 Tonight we'll explore and celebrate [Cloudflare's AI offerings](https://developers.cloudflare.com/workers-ai/), together.
 
