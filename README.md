@@ -3,6 +3,8 @@
 
 Welcome to AI Hacknight @ Cloudflare
 
+https://bit.ly/ai-hacknights
+
 ```
 Wifi: Cloudflare Guest
 Password: #savetheinternet
@@ -26,3 +28,5 @@ We know this is a relatively short time to hack, and your demos don't need to be
 - 💻 [Hackathon Starter Kit](https://github.com/craigsdennis/hackathon-helper-workers-ai)
 - 📚 [Docs - Workers AI](https://developers.cloudflare.com/workers-ai)
 - ✍️ [Sign up to demo](https://forms.gle/sqAHhGhnM3HTAoot8)
+
+![qr code](qr.png "This page")
