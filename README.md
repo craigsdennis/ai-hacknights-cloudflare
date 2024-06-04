@@ -30,3 +30,5 @@ We know this is a relatively short time to hack, and your demos don't need to be
 - ✍️ [Sign up to demo](https://forms.gle/sqAHhGhnM3HTAoot8)
 
 ![qr code](qr.png "This page")
+
+PS: 🤝 [We're hiring](https://www.cloudflare.com/careers/)
