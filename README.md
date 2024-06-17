@@ -33,6 +33,7 @@ We know this is a relatively short time to hack, and your demos don't need to be
 ## Resources
 
 - 💻 [Hackathon Starter Kit](https://github.com/craigsdennis/hackathon-helper-workers-ai)
+- 📕 [Prompting Guide](https://www.promptingguide.ai/)
 - 📚 [Docs - Workers AI](https://developers.cloudflare.com/workers-ai)
 - ✍️ [Sign up to demo](https://forms.gle/sqAHhGhnM3HTAoot8)
 
