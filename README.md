@@ -3,7 +3,7 @@
 
 Welcome to AI Hacknight @ Cloudflare
 
-https://bit.ly/ai-hacknights
+https://shrty.dev/hack-ai
 
 ```
 Wifi: TBD
