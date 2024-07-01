@@ -3,11 +3,10 @@
 
 Welcome to AI Hacknight @ Cloudflare
 
-https://shrty.dev/hack-ai
+**[shrty.dev/hack-ai](https://shrty.dev/hack-ai)**
 
 ```
-Wifi: TBD
-Password: TBD
+Wifi: AirOrangeGuest
 ```
 
 Tonight we'll explore and celebrate [Cloudflare's AI offerings](https://developers.cloudflare.com/workers-ai/), together.
