@@ -5,14 +5,17 @@
 
 ## Terminology
 
-- [ ] LLM: Large Language Models
+- [ ] AI: Artificial Intelligence
+- [ ] LLM: Large Language Model
 - [ ] GPT: Generative Pre-trained Transformer
+  - [ ] It may feel like it, but you aren't that far behind 11/30/22
 - [ ] GPU: Graphics Processing Unit
+  - [ ] FLOPs: Floating Point Operations
+  - [ ] Inference
   - [ ] Baking soda
-- [ ] Open Models
+- [ ] 🤗 Open Models 
 
 ## Play with it
 
-- [ ] It may feel like it, but you aren't that far behind
-- [ ] DEMO: System Messages
+- [ ] DEMO: System Messages | https://shrty.dev/hottest
 - [ ] DEMO: Multi-modality
