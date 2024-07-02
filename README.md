@@ -11,7 +11,9 @@ Wifi: AirOrangeGuest
 
 Tonight we'll explore and celebrate [Cloudflare's AI offerings](https://developers.cloudflare.com/workers-ai/), together.
 
-We know this is a relatively short time to hack, and your demos don't need to be polished. You can even show off a **System Message** in the [AI Playground](https://playground.ai.cloudflare.com/).
+We know this is a relatively short time to hack, and your demos don't need to be polished. 
+
+You can even show off a **System Message** in the [AI Playground](https://playground.ai.cloudflare.com/).
 
 ## Schedule
 
