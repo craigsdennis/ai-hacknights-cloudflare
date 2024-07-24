@@ -1,16 +1,15 @@
-# AI Hacknight - San Francisco - 7/25
+# AI Hacknight - Syracuse - 7/2
 
 
-Welcome to AI Hackcamp @ Cloudflare
+Welcome to AI Hacknight @ Cloudflare
 
 **[shrty.dev/hack-ai](https://shrty.dev/hack-ai)**
 
 ```
-WiFi: Cloudflare Guest
-Password: #savetheinternet
+Wifi: AirOrangeGuest
 ```
 
-Today we're explore and celebrate [Cloudflare's AI offerings](https://developers.cloudflare.com/workers-ai/), together.
+Tonight we'll explore and celebrate [Cloudflare's AI offerings](https://developers.cloudflare.com/workers-ai/), together.
 
 We know this is a relatively short time to hack, and your demos don't need to be polished. 
 
@@ -19,15 +18,15 @@ You can even show off a **System Message** in the [AI Playground](https://playgr
 ## Schedule
 
 ```
-1:30 - 2:00: 🥨 + Networking
-2:00 - 2:30: ⚡️ Talks
-2:30 - 3:30: 🧑‍💻👩‍💻 Hack
-3:30 - 4:00: 👏 Demos
+5:00 - 6:00: 🦖🍖 + Networking
+6:00 - 6:30: ⚡️ Talks
+6:30 - 7:30: 🧑‍💻👩‍💻 Hack
+7:30 - 8:00: 👏 Demos
 ```
 
 ## Working Apps to Explore
 
-- 🛝 [AI Playground](https://playground.ai.cloudflare.com/)
+- 🛝[AI Playground](https://playground.ai.cloudflare.com/)
 - 👀 [Floor is LLaVa - Vision Model](https://floor-is-llava.pages.dev)
 - 🎨 [Image Models Exploration - Streamlit](https://image-models-workers-ai.streamlit.app/)
 - 💬 [Vanilla Chat on Pages](https://vanilla-chat-demo.pages.dev/)
