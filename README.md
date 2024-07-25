@@ -1,4 +1,4 @@
-# AI Hacknight - San Francisco - 7/25
+# AI Hackcamp - San Francisco - 7/25
 
 
 Welcome to AI Hackcamp @ Cloudflare
