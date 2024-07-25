@@ -30,7 +30,7 @@ You can even show off a **System Message** in the [AI Playground](https://playgr
 - 🛝 [AI Playground](https://playground.ai.cloudflare.com/)
 - 👀 [Floor is LLaVa - Vision Model](https://floor-is-llava.pages.dev)
 - 🎨 [Image Models Exploration - Streamlit](https://image-models-workers-ai.streamlit.app/)
-- 💬 [Vanilla Chat on Pages](https://vanilla-chat-demo.pages.dev/)
+- 💬 [Vanilla Chat on Pages](https://vanilla-chat-demo-tmpl-548.pages.dev/) - [Template Repo](https://shrty.dev/chat-template)
 
 ## Resources
 
