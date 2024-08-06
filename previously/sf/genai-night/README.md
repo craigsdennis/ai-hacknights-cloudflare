@@ -1,31 +1,33 @@
-# AI Hackcamp - Virtual - 8/15
+# AI Hackcamp - San Francisco - 7/25
 
 
-Welcome to AI Hackcamp
+Welcome to AI Hackcamp @ Cloudflare
 
 **[shrty.dev/hack-ai](https://shrty.dev/hack-ai)**
 
+```
+WiFi: Cloudflare Guest
+Password: #savetheinternet
+```
 
 Today we're explore and celebrate [Cloudflare's AI offerings](https://developers.cloudflare.com/workers-ai/), together.
 
 We know this is a relatively short time to hack, and your demos don't need to be polished. 
 
-You can even show off a **System Message** in the [AI Playground](https://playground.ai.cloudflare.com/)...or a creation you make in the [Mult-Modal Playground](https://multi-modal.ai.cloudflare.com/)
+You can even show off a **System Message** in the [AI Playground](https://playground.ai.cloudflare.com/).
 
 ## Schedule
 
-Times are in PST
-
 ```
-9:00 - 9:30: ⚡️ Talks
-9:30 - 10:30: 🧑‍💻👩‍💻 Hack
-10:30 - 11:00: 👏 Demos
+1:30 - 2:00: 🥨 + Networking
+2:00 - 2:30: ⚡️ Talks
+2:30 - 3:30: 🧑‍💻👩‍💻 Hack
+3:30 - 4:00: 👏 Demos
 ```
 
 ## Working Apps to Explore
 
-- 🛝 [AI Playground - Text](https://playground.ai.cloudflare.com/)
-- 🛝 [Multi-modal Playground](https://multi-modal.ai.cloudflare.com/)
+- 🛝 [AI Playground](https://playground.ai.cloudflare.com/)
 - 👀 [Floor is LLaVa - Vision Model](https://floor-is-llava.pages.dev)
 - 🎨 [Image Models Exploration - Streamlit](https://image-models-workers-ai.streamlit.app/)
 - 💬 [Vanilla Chat on Pages](https://vanilla-chat-demo-tmpl-548.pages.dev/) - [Template Repo](https://shrty.dev/chat-template)
