@@ -10,7 +10,7 @@ Today we're explore and celebrate [Cloudflare's AI offerings](https://developers
 
 We know this is a relatively short time to hack, and your demos don't need to be polished. 
 
-You can even show off a **System Message** in the [AI Playground](https://playground.ai.cloudflare.com/)...or a creation you make in the [Mult-Modal Playground](https://multi-modal.ai.cloudflare.com/)
+You can even show off a **System Message** in the [AI Playground](https://playground.ai.cloudflare.com/)...or a creation you make in the [Multi-Modal Playground](https://multi-modal.ai.cloudflare.com/)
 
 ## Schedule
 
