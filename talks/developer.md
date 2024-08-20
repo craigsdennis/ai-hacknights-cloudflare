@@ -15,6 +15,6 @@
     - [ ] 🤠 wrangler.toml
       - [ ] ✅ AI binding
     - [ ] 🏃‍♂️ env.AI.run
-    - [x] streaming: true
+    - [ ] streaming: true
   - [ ] ⚡️ Pages: npm create cloudflare@latest
   - [ ] 🧑‍💻👩‍💻 Happy Hacking 🧑‍💻👩‍💻

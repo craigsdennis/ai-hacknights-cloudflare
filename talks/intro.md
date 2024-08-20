@@ -17,5 +17,5 @@
 
 ## Play with it
 
-- [ ] DEMO: System Messages | https://shrty.dev/hottest
-- [ ] DEMO: Multi-modality
+- [x] DEMO: System Messages | https://shrty.dev/hottest
+- [x] DEMO: Multi-modality

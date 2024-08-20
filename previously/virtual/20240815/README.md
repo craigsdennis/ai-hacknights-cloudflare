@@ -1,7 +1,7 @@
-# AI Hackcamp - Las Vegas - 8/20
+# AI Hackcamp - Virtual - 8/15
 
 
-Welcome to AI Hacknight
+Welcome to AI Hackcamp
 
 **[shrty.dev/hack-ai](https://shrty.dev/hack-ai)**
 
@@ -14,12 +14,12 @@ You can even show off a **System Message** in the [AI Playground](https://playgr
 
 ## Schedule
 
+Times are in PST
 
 ```
-5:00 - 6:00: Networking + 🌮
-6:00 - 6:30: ⚡️ Talks
-6:30 - 7:30: 🧑‍💻👩‍💻 Hack
-7:30 - 8:00: 👏 Demos
+9:00 - 9:30: ⚡️ Talks
+9:30 - 10:30: 🧑‍💻👩‍💻 Hack
+10:30 - 11:00: 👏 Demos
 ```
 
 ## Working Apps to Explore
