@@ -16,7 +16,7 @@ You can even show off a potential use case in the [Realtime Console App](https:/
 
 
 ```
-5:00 - 5:30: Networking + 🍕
+5:30 - 6:00: Networking + 🍕
 6:00 - 6:30: ⚡️ Talks
 6:30 - 8:00: 🧑‍💻👩‍💻 Hack
 8:00 - 8:30: 👏 Demos
