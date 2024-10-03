@@ -28,7 +28,7 @@ You can even show off a potential use case in the [Realtime Console App](https:/
 
 ## Working Apps to Explore
 
-- [Playground]()
+- 🛝 [OpenAI Playground](https://platform.openai.com/playground/chat?models=gpt-4o)
 - 🛝 [Cloudflare Multi-modal Playground](https://multi-modal.ai.cloudflare.com/)
 
 ## Resources
