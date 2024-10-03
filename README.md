@@ -8,7 +8,7 @@ Password: #savetheinternet
 
 **[shrty.dev/hack-ai](https://shrty.dev/hack-ai)**
 
-[Fill out this form with your OpenAI credentials](https://platform.openai.com/docs/guides/realtime)
+[Fill out this form with your OpenAI credentials](https://iy4arahmih1.typeform.com/to/Z3GJ5g1V)
 
 Today we're here to explore and celebrate [OpenAI's DevDay Announcements](https://openai.com/devday/), together.
 
