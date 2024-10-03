@@ -1,7 +1,7 @@
-# AI Hacknight - San Francisco - 10/02
+# AI Hacknight - San Francisco OpenAI - 10/02
 
 
-Welcome to AI Hacknight
+Welcome to AI Hacknight w/ our very special guests OpenAI
 
 **[shrty.dev/hack-ai](https://shrty.dev/hack-ai)**
 
@@ -28,6 +28,7 @@ You can even show off a potential use case in the [Realtime Console App](https:/
 
 ## Resources
 
+- 📚 [Realtime API Guide](https://platform.openai.com/docs/guides/realtime)
 - 💻 [Cloudflare Hackathon Starter Kit](https://github.com/craigsdennis/hackathon-helper-workers-ai)
 - 📕 [Prompting Guide](https://www.promptingguide.ai/)
 - 📚 [Docs - Workers AI](https://developers.cloudflare.com/workers-ai)
