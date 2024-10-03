@@ -3,8 +3,12 @@
 
 Welcome to AI Hacknight w/ our very special guests OpenAI
 
+Wifi: Cloudflare Guest
+Password: #savetheinternet
+
 **[shrty.dev/hack-ai](https://shrty.dev/hack-ai)**
 
+[Fill out this form with your OpenAI credentials](https://platform.openai.com/docs/guides/realtime)
 
 Today we're here to explore and celebrate [OpenAI's DevDay Announcements](https://openai.com/devday/), together.
 
@@ -24,6 +28,7 @@ You can even show off a potential use case in the [Realtime Console App](https:/
 
 ## Working Apps to Explore
 
+- [Playground]()
 - 🛝 [Cloudflare Multi-modal Playground](https://multi-modal.ai.cloudflare.com/)
 
 ## Resources
