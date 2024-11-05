@@ -1,14 +1,9 @@
-# AI Hacknight - San Francisco OpenAI - 10/02
+# Cloudflare x Toolhouse AI Hackathon 11/12
 
-
-Welcome to AI Hacknight w/ our very special guests OpenAI
+Welcome to Cloudflare and Toolhouse AI's hackathon!
 
 Wifi: Cloudflare Guest
 Password: #savetheinternet
-
-**[shrty.dev/hack-ai](https://shrty.dev/hack-ai)**
-
-[Fill out this form with your OpenAI credentials](https://iy4arahmih1.typeform.com/to/Z3GJ5g1V)
 
 Today we're here to explore and celebrate [OpenAI's DevDay Announcements](https://openai.com/devday/), together.
 
@@ -18,12 +13,11 @@ You can even show off a potential use case in the [Realtime Console App](https:/
 
 ## Schedule
 
-
 ```
-5:30 - 6:00: Networking + 🍕
-6:00 - 6:30: ⚡️ Talks
-6:30 - 8:00: 🧑‍💻👩‍💻 Hack
-8:00 - 8:30: 👏 Demos
+5:45 PM - Doors open & snacks
+6:00 PM - Lightning talks
+6:15 PM - Start hacking
+8:30 PM - Demos & presentations to pick winners
 ```
 
 ## Working Apps to Explore
@@ -37,8 +31,14 @@ You can even show off a potential use case in the [Realtime Console App](https:/
 - 💻 [Cloudflare Hackathon Starter Kit](https://github.com/craigsdennis/hackathon-helper-workers-ai)
 - 📕 [Prompting Guide](https://www.promptingguide.ai/)
 - 📚 [Docs - Workers AI](https://developers.cloudflare.com/workers-ai)
-- ✍️ [Sign up to demo](https://forms.gle/sqAHhGhnM3HTAoot8)
+- ✍️ [Sign up to demo TODO](TODO)
 
-![qr code](qr.png "This page")
+![qr code](qr.gif "This page")
+
+---
+
+Want to keep building?
+
+Learn more about [Cloudflare Workers AI](https://ai.cloudflare.com/) and [Toolhouse](https://toolhouse.ai/)!
 
 PS: 🤝 [We're hiring](https://www.cloudflare.com/careers/)
