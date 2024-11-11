@@ -24,6 +24,7 @@ You can even show off a potential use case in the [Realtime Console App](https:/
 
 - 🛝 [OpenAI Playground](https://platform.openai.com/playground/chat?models=gpt-4o)
 - 🛝 [Cloudflare Multi-modal Playground](https://multi-modal.ai.cloudflare.com/)
+- 🛝 [Retieval Augmented Generation (RAG) example](https://github.com/kristianfreeman/cloudflare-retrieval-augmented-generation-example)
 
 ## Resources
 
