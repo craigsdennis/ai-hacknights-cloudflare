@@ -18,6 +18,13 @@ We know this is a relatively short time to hack, and if you want to present, you
 8:30 PM - Demos & presentations to pick winners
 ```
 
+## Project Tracks
+Ideally your project matches one of the following projec tracks.
+It's totally optional, you can just hack on whatever you want:
+- Best Use of Toolhouse.ai platform
+- Best Use of Cloudflare services
+- Most likely to be a business
+
 ## Working Apps to Explore
 
 - 🛝 [Cloudflare Multi-modal Playground](https://multi-modal.ai.cloudflare.com/)
