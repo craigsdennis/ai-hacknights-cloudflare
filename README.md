@@ -2,8 +2,9 @@
 
 Welcome to [Hacking Agents Hackathon](https://lu.ma/hacking-agents-hackathon)!
 
-Wifi: Cloudflare Guest
-Password: #savetheinternet
+Wifi: `Cloudflare Guest`
+
+Password: `#savetheinternet`
 
 **[shrty.dev/hack-ai](https://shrty.dev/hack-ai)**
 
