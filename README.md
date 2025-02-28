@@ -13,6 +13,7 @@ Password: #savetheinternet
 ## Resources
 
 - 🧠 [Cloudflare Agents SDK](https://github.com/cloudflare/agents)
+- 📚 [Cloudflare Agents Docs](https://developers.cloudflare.com/agents)
 - 🧡 [Cloudflare Discord](https://discord.cloudflare.com)
   - [Discord Agents Channel](https://discord.com/channels/595317990191398933/1344688586146189475) 
 - 💻 [Cloudflare Hackathon Starter Kit](https://github.com/craigsdennis/hackathon-helper-workers-ai)
