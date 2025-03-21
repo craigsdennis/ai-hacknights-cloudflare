@@ -1,11 +1,11 @@
 # 🦙🦙🦙 Building with Workers AI 🦙🦙🦙
 
-- [x] 🧡 Cloudflare
-  - [x] 🤝 A brief re-introduction
-- [x] 👷‍♂️ Workers
-- [x] 🔮 Workers AI
-  - [x] 📄 [Models](https://developers.cloudflare.com/workers-ai/models/)
-- [x] 🪓 REST API
+- [ ] 🧡 Cloudflare
+  - [ ] 🤝 A brief re-introduction
+- [ ] 👷‍♂️ Workers
+- [ ] 🔮 Workers AI
+  - [ ] 📄 [Models](https://developers.cloudflare.com/workers-ai/models/)
+- [ ] 🪓 REST API
   - [ ] 🐍 Python SDK 
   - [ ] 😘 Streamlit
 - [ ] 👨‍💻 Workers: npm create cloudflare@latest

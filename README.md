@@ -2,6 +2,9 @@
 
 Welcome to AI Hacknight
 
+WiFi: Firehouse Guest
+No password
+
 **[shrty.dev/hack-ai](https://shrty.dev/hack-ai)**
 
 
