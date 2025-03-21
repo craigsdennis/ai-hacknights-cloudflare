@@ -15,7 +15,7 @@ You can even show off a **System Message** in the [AI Playground](https://playgr
 
 
 ```
-6:00 - 6:30: Networking + 🌮
+6:00 - 6:30: Networking + 🍔 🌽
 6:30 - 7:00: ⚡️ Talks
 7:00 - 8:00: 🧑‍💻👩‍💻 Hack
 8:00 - 8:30: 👏 Demos
